@@ -7,9 +7,9 @@ export default defineConfig({
   title: 'cime', // 网站标题名
   // 网站标题旁边图片
   favicon:
-    'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+    'https://img2.baidu.com/it/u=1908373118,3611965450&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500',
   // 页面上展示的logo的图片
-  logo: 'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+  logo: 'https://img2.baidu.com/it/u=1908373118,3611965450&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500',
   // 打包发布上线的 文件包名字
   outputPath: 'docs-dist',
   // 配置导航条模式 // 默认纵向，

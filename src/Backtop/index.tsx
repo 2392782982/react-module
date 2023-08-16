@@ -36,7 +36,6 @@ const Backtop: React.FC<BacktopProps> = ({  right, bottom }) => {
 
     return (
         <>
-            <p>Scroll down to see the bottom-right button.</p>
             <div className={`backtopBacktop${showBacktop ? 'Show' : ''}`}
                  style={{ right : right ?  Number(right) : '' , bottom : bottom ? Number(bottom) : '' }}
                 onClick={scrollToTop} >
