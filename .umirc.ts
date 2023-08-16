@@ -4,7 +4,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'cime', // 网站标题名
+  title: 'react-dumi', // 网站标题名
   // 网站标题旁边图片
   favicon:
     'https://img2.baidu.com/it/u=1908373118,3611965450&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500',
